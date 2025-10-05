@@ -34,6 +34,12 @@ Whether you're preparing for your **first job**, switching careers, or **mentori
 ---
 <img width="1024" height="1024" alt="Generated Image October 03, 2025 - 5_51PM" src="https://github.com/user-attachments/assets/e9ec2949-063a-43f9-9ee2-18aed11d0c25" />
 
+<img width="1024" height="1024" alt="Generated Image October 03, 2025 - 5_51PM (2)" src="https://github.com/user-attachments/assets/789b4063-0a1a-49a4-9013-b8a76f7dab07" />
+
+<img width="1024" height="1024" alt="Generated Image October 03, 2025 - 5_51PM (1)" src="https://github.com/user-attachments/assets/c5b4e5f4-b902-4fa5-879c-bfba236a027a" />
+
+
+
 ## ⚙️ Project Setup
 
 ### 1️⃣ Clone the Repository
