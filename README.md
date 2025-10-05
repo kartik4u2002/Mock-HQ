@@ -32,6 +32,7 @@ Whether you're preparing for your **first job**, switching careers, or **mentori
 | **Hosting (optional)** | Render / Vercel / Netlify |
 
 ---
+<img width="1024" height="1024" alt="Generated Image October 03, 2025 - 5_51PM" src="https://github.com/user-attachments/assets/e9ec2949-063a-43f9-9ee2-18aed11d0c25" />
 
 ## ⚙️ Project Setup
 
@@ -41,4 +42,4 @@ git clone https://github.com/<your-username>/Mock-HQ.git
 cd Mock-HQ
 
 
-<img width="1024" height="1024" alt="Generated Image October 03, 2025 - 5_51PM" src="https://github.com/user-attachments/assets/6ea7414e-a63d-4405-a038-10be7ed518c4" />
+
